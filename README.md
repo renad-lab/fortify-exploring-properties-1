@@ -1,5 +1,3 @@
-# fortify-exploring-properties-1
-
 # Buttons and Calculator Project
 
 Welcome to my Buttons and Calculator project! In this project, I aimed to create a variety of buttons with different designs and functionalities, and integrate them into a simple calculator web application. Let me walk you through the process!
